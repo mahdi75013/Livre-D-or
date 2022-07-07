@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "g": "^2.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "github:mysqljs/mysql",
     "nodemon": "^1.19.2"
   }
